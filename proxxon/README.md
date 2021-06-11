@@ -1,0 +1,1 @@
+A shell to replace a broken proxxon FBS 240/E mini drill.
